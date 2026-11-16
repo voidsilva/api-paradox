@@ -1,0 +1,8 @@
+{
+  "name": "api-paradox",
+  "version": "1.0.0",
+  "description": "API de frases no estilo de O Idiota (Dostoiévski) que nunca repete uma frase",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
